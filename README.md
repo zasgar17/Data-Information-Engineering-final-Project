@@ -1,0 +1,5 @@
+# Github Repository URL https://github.com/zasgar17/Data-Information-Engineering-final-Project.git 
+
+# A brief project description
+ 
+The primary focus of our project is (6) the transportation data of Azerbaijan, including the collection of schedules and related information for buses, trains, and other forms of public transportation. The data was scraped from online sources using Python libraries (such as selenium, urllib, requests, and py library), incorporating features (like pagination and error handling), while adhering to best practices for web scraping. Firstly, we successfully gathered the data by using web scrapping, then cleaned it to address inconsistencies and missing values, followed by exploratory data analysis (EDA) using visualizations heatmaps to uncover trends and insights. Additionally, we applied regregression machine learning model, including polynomial, random forest and others, to predict transportation patterns and optimize schedules. This  approach provided useful insights for improving Azerbaijan's public transportation system as well as contributing to better planning and decision-making.
